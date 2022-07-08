@@ -20,6 +20,7 @@ As mentioned in the task, I need to write below some sound design solutions I ha
 - I created the sound of Sequence with attention to any animation event;
 - I made a ducking effect between Sequence Aux and Music with Ambiance Auxes so it is possible now to hear clearly the Sequence Audio;
 - Created UI sound in the main key of music so it sounds now like one unity.
+- I didn't make the files compression so now the project's size is "856 186 193 bytes (921,1 MB on disk) for 22 701 items". I understand that for a real project it isn't appropriate. But at least for assessment and regarding task details I consider it as an admissible case. Anyway, you can familiarize yourself with the sounds in good quality (SR 44100; 16 bit)
 
 It would be great to get feedback in a nutshell!
 Thank you for your time! I look forward to hearing from you! 
